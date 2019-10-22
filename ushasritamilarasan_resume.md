@@ -5,14 +5,14 @@
 <h1 id="Usha Sri T">Usha Sri T</h1>
 <h2 id="education">Education</h2>
 <p><strong>S.B.O.A Matriculation Higher Secondary School,Madurai</strong><br>
-<em>HSC-2016</em><br>
-<em>Percentage:89</em><br></p>
+<em>HSC - 2016</em><br>
+<em>Percentage: 89</em><br></p>
 <p><strong>S.B.O.A Matriculation Higher Secondary School,Madurai</strong><br>
-<em>SSLC-2014</em><br>
-<em>Percentage:98</em><br></p>
+<em>SSLC - 2014</em><br>
+<em>Percentage: 98</em><br></p>
 <p><strong>Velammal College of Engineering and Technology,Madurai</strong><br>
-<em>B.Tech-2020</em><br>
-<em>CGPA:8.45(Till 6th semester)</em><br></p>
+<em>B.Tech - 2020</em><br>
+<em>CGPA: 8.45 (Till 6th semester)</em><br></p>
 <h2 id="subject of interest">Subject Of Interest</h2>
 <ul>
 <li>Computer networks</li>
