@@ -51,7 +51,7 @@
 <li>Participated in Inter Departmental Coding and Debugging contest conducted by Velammal College of Engineering and Technology, Madurai on 14 th September,2017.</li>
 <li>Participated in the “SMART INDIA HACKATHON” in the month of May, 2018.</li>
 <li>Participated in the “VORTEX 2019” Paper presentation contest on the title “SWARM INTELLIGENCE” at National Institute of Technology, Trichy on 1st February, 2019.</li>
-<li>Participated in the “VORTEX 2019” Coding contest at National Institute of Technology, Trichy on 1 st February, 2019.</li>
+<li>Participated in the “VORTEX 2019” Coding contest at National Institute of Technology, Trichy on 1st February, 2019.</li>
 <li>Participated in the “TCS Code Vita”, an online coding contest.</li>
 <li>Attended In plant Training at Adhavan Academy from 29 th May 2018 to 2 nd June 2018.</li>
 </ul>
