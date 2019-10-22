@@ -1,8 +1,6 @@
-
+<h1 id="Usha Sri T">Usha Sri T</h1>
 <p><a href="mailto:archanaushasri@gmail.com">archanaushasri@gmail.com</a> |
 <a href="tel:8489296562">8489296562</a></p>
-</blockquote>
-<h1 id="Usha Sri T">Usha Sri T</h1>
 <h2 id="education">Education</h2>
 <p><strong>S.B.O.A Matriculation Higher Secondary School, Madurai</strong><br>
 <em>HSC - 2016</em><br>
