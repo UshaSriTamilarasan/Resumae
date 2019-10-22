@@ -11,6 +11,13 @@
 <p><strong>Velammal College of Engineering and Technology, Madurai</strong><br>
 <em>B.Tech - 2020</em><br>
 <em>CGPA: 8.45 (Till 6th semester)</em><br></p>
+<h2 id="personalitytraits">Personality Traits</h2>
+<ul>
+<li>Flexible</li>
+<li>Fast Learner</li>
+<li>Self Motivated</li>
+<li>Professional</li>
+</ul>
 <h2 id="subject of interest">Subject Of Interest</h2>
 <ul>
 <li>Computer networks</li>
