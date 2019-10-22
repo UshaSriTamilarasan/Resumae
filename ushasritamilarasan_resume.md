@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-    <html>
-    <head>
+
       
 <p><a href="mailto:archanaushasri@gmail.com">archanaushasri@gmail.com</a> |
 <a href="tel:8489296562">8489296562</a></p>
@@ -61,5 +59,3 @@ Owner<br>
 </ul>
 
 
-    </body>
-    </html>
