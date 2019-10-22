@@ -17,6 +17,10 @@
 <ul>
 <li>Computer networks</li>
 </ul>
+<h2 id="certificate">Certifications</h2>
+<ul>
+<li>C Programming</li>
+<li>Java</li></ul>
 <h2 id="projects">Projects</h2>
 <p><strong>Line Following Robot</strong><br>
 <em>September 2017</em>
