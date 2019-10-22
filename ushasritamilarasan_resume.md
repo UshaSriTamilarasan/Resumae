@@ -1,15 +1,8 @@
 
-      
 <p><a href="mailto:archanaushasri@gmail.com">archanaushasri@gmail.com</a> |
 <a href="tel:8489296562">8489296562</a></p>
 </blockquote>
 <h1 id="Usha Sri T">Usha Sri T</h1>
-<ul>
-<li>Flexible</li>
-<li>Fast Learner</li>
-<li>Self Motivated</li>
-<li>Active listener</li>
-</ul>
 <h2 id="education">Education</h2>
 <p><strong>S.B.O.A Matriculation Higher Secondary School,Madurai</strong><br>
 <em>HSC-2016</em><br>
@@ -48,5 +41,3 @@
 <li>It aims at improving the efficiency in the Issue of Passport.</li>
 <li>It reduces the complexities involved in it to the maximum possible extent.</li>
 </ul>
-
-
