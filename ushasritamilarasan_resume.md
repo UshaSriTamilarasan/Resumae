@@ -59,5 +59,5 @@
 <h2 id="initiatives">Extra Activities</h2>
 <ul>
 <li>Member of ECO CLUB during 2016-2017 at Velammal College of Engineering and Technology.</li>
-<li>Student Coordinator for the Medical Innovation Awards 2019 in Engineering Field</li>
+<li>Student Coordinator for the Medical Innovation Awards 2019 in the field of Engineering.</li>
 </ul>
