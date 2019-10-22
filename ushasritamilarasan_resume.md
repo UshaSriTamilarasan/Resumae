@@ -64,3 +64,7 @@
 <li>Pencil sketching</li><a href="sketches">Sketches</a>
 <li>Cooking</li>
 </ul>
+<h2 id="personal">Personal Details</h2>
+<p><strong>Date of Birth : </strong>05-11-1998<br>
+<strong>Languages Known : </strong>Tamil, English<br>
+<strong>Address : </strong>Plot no:22A, Pdhuvazhvu Nagar, H.M.S Colony extn., Near Fenner Nagar 3 rd Street, Madurai – 625016.<br></p>
