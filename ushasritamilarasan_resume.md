@@ -56,3 +56,8 @@
 <li>Participated in the “VORTEX 2019” Coding contest at National Institute of Technology, Trichy on 1st February, 2019.</li>
 <li>Participated in the “TCS Code Vita”, an online coding contest.</li>
 </ul>
+<h2 id="initiatives">Extra Activities</h2>
+<ul>
+<li>Member of ECO CLUB during 2016-2017 at Velammal College of Engineering and Technology.</li>
+<li>Student Coordinator for the Medical Innovation Awards 2019 in Engineering Field</li>
+</ul>
