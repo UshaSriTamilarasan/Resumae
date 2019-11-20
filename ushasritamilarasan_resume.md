@@ -36,7 +36,7 @@
 <li>Lines following Robots are commonly used for automation process in industries, military applications.</li>
 </ul>
 <p><strong>Student Mark Analysis System</strong><br>
-<em>Feburary 2018</em><br><a href="https://github.com/UshaSriTamilarasan/Student-Mark-Analysis-System">Project-SMAS</a></p>
+<em>Feburary 2018</em><br></p>
 <ul>
 <li>The keyfeature of the software is to provide detailed information of the student along with internal marks and Semester results.</li>
 <li>The faculty can enter the marks and student information through a visual environment.</li> 
@@ -44,7 +44,7 @@
 <li>The system generates the overall result by analyzing the marks.</li>
 </ul>
 <p><strong>Passport Automation System</strong><br>
-<em>September 2018</em><br><a href="https://github.com/UshaSriTamilarasan/Passport-Automation-System">Project-PAS</a>
+<em>September 2018</em><br>
 </p>
 <ul>
 <li>Passport Automation System is an interface between the Applicant and the Authority responsible for the Issue of Passport.</li>
