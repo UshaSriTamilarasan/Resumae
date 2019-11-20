@@ -79,5 +79,5 @@
 <strong>Address : </strong>Plot no:22A, Pudhuvazhvu Nagar, H.M.S Colony extn., Near Fenner Nagar 3 rd Street, Madurai – 625016.<br></p>
 <br>
 <br>
-<p>Place: Madurai<br>
-<pre>Date : 20-11-2019                                                                   T.Usha Sri</pre></p>
+<p><pre>Place: Madurai<br>
+Date : 20-11-2019                                                                   T.Usha Sri</pre></p>
