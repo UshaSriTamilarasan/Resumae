@@ -69,7 +69,7 @@
 </ul>
 <h2 id="hobbies">Hobbies</h2>
 <ul>
-<li>Pencil sketching</li><a href="sketches">Sketches</a>
+<li>Pencil sketching</li>
 <li>Cooking</li>
 </ul>
 <h2 id="personal">Personal Details</h2>
