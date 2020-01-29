@@ -3,14 +3,14 @@
 <a href="tel:8489296562">8489296562</a></p>
 <h2 id="education">Education</h2>
 <p><strong>S.B.O.A Matriculation Higher Secondary School, Madurai</strong><br>
-<em>HSC - 2016</em><br>
-<em>Percentage: 89</em><br></p>
-<p><strong>S.B.O.A Matriculation Higher Secondary School, Madurai</strong><br>
 <em>SSLC - 2014</em><br>
 <em>Percentage: 98</em><br></p>
+<p><strong>S.B.O.A Matriculation Higher Secondary School, Madurai</strong><br>
+<em>HSC - 2016</em><br>
+<em>Percentage: 89</em><br></p>
 <p><strong>Velammal College of Engineering and Technology, Madurai</strong><br>
 <em>B.Tech - 2020</em><br>
-<em>CGPA: 8.45 (Till 6th semester)</em><br></p>
+<em>CGPA: 8.41 (Till 7th semester)</em><br></p>
 <h2 id="personalitytraits">Personality Traits</h2>
 <ul>
 <li>Flexible</li>
