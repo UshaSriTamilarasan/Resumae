@@ -34,7 +34,7 @@
 <p>Expiration: 3years</p>
 <li><strong>CCNA (Cisco Certified Network Associate) - Routing and Switching</strong></li><br>
 <p>Certificate no:</p>
-<p>Expiration: 3years</p>
+<p>Expiration: 3years</p><br>
 <h2 id="projects">Projects</h2>
 <p><strong>Line Following Robot</strong><br>
 <em>September 2017</em></p>
