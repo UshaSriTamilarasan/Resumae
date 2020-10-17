@@ -29,10 +29,10 @@
 <li>Java</li></ul>
 <h2 id="certificate">Certifications</h2>
 <ul>
-<li><strong>AWS Cloud Practitioner</strong></li>
+<li><strong>AWS Cloud Practitioner</strong></li><br>
 <p>Certificate no:</p>
 <p>Expiration: 3years</p>
-<li><strong>CCNA (Cisco Certified Network Associate) - Routing and Switching</strong></li>
+<li><strong>CCNA (Cisco Certified Network Associate) - Routing and Switching</strong></li><br>
 <p>Certificate no:</p>
 <p>Expiration: 3years</p>
 <h2 id="projects">Projects</h2>
