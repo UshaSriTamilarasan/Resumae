@@ -27,7 +27,12 @@
 <ul>
 <li>C Programming</li>
 <li>Python</li>
-<li>Java</li></ul>
+<li>Java</li>
+<li>Shell Scripting</li></ul>
+<h2 id="os">Operating Systems</h2>
+<ul>
+<li>Windows</li>
+<li>Linux</li></ul>
 <h2 id="certificate">Certifications</h2>
 <ul>
 <li><strong>AWS Cloud Practitioner</strong></li><br>
