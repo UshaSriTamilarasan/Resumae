@@ -22,10 +22,19 @@
 <ul>
 <li>Computer networks</li>
 </ul>
-<h2 id="certificate">Certifications</h2>
+<h2 id="pl">Programming Languages</h2>
 <ul>
 <li>C Programming</li>
+<li>Python</li>
 <li>Java</li></ul>
+<h2 id="certificate">Certifications</h2>
+<ul>
+<li><strong>AWS Cloud Practitioner</strong></li>
+<p>Certificate no:</p>
+<p>Expiration: 3years</p>
+<li><strong>CCNA (Cisco Certified Network Associate) - Routing and Switching</strong></li>
+<p>Certificate no:</p>
+<p>Expiration: 3years</p>
 <h2 id="projects">Projects</h2>
 <p><strong>Line Following Robot</strong><br>
 <em>September 2017</em></p>
