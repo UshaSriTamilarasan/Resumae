@@ -85,6 +85,7 @@
 <h2 id="hobbies">Hobbies</h2>
 <ul>
 <li>Pencil sketching</li>
+<li>Mandala Art</li>
 <li>Cooking</li>
 </ul>
 <h2 id="personal">Personal Details</h2>
