@@ -72,7 +72,6 @@
 <li>Participated in the “SMART INDIA HACKATHON” in the month of May, 2018.</li>
 <li>Participated in the “VORTEX 2019” Paper presentation contest on the title “SWARM INTELLIGENCE” at National Institute of Technology, Trichy on 1st February, 2019.</li>
 <li>Participated in the “VORTEX 2019” Coding contest at National Institute of Technology, Trichy on 1st February, 2019.</li>
-<li>Participated in the “TCS Code Vita”, an online coding contest.</li>
 </ul>
 <h2 id="initiatives">Extra Activities</h2>
 <ul>
