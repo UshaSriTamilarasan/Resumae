@@ -20,12 +20,12 @@
 </ul>
 <h2 id="subject of interest">Subject Of Interest</h2>
 <ul>
-<li>Computer networks</li>
+<li>Networking</li>
 </ul>
 <h2 id="pl">Programming Languages</h2>
 <ul>
 <li>C Programming</li>
-<li>Java(Basics)</li>
+<li>Java(Basics)</li></ul>
 <h2 id="os">Operating Systems</h2>
 <ul>
 <li>Windows</li>
