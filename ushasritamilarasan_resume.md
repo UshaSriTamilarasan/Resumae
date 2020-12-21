@@ -10,7 +10,7 @@
 <em>Percentage: 89</em><br></p>
 <p><strong>Velammal College of Engineering and Technology, Madurai</strong><br>
 <em>B.Tech - 2020</em><br>
-<em>CGPA: 8.41 (Till 7th semester)</em><br></p>
+<em>CGPA: 8.55</em><br></p>
 <h2 id="personalitytraits">Personality Traits</h2>
 <ul>
 <li>Flexible</li>
@@ -21,26 +21,23 @@
 <h2 id="subject of interest">Subject Of Interest</h2>
 <ul>
 <li>Computer networks</li>
-<li>Cloud Computing</li>
 </ul>
 <h2 id="pl">Programming Languages</h2>
 <ul>
 <li>C Programming</li>
-<li>Python</li>
-<li>Java</li>
-<li>Shell Scripting</li></ul>
+<li>Java(Basics)</li>
 <h2 id="os">Operating Systems</h2>
 <ul>
 <li>Windows</li>
-<li>Linux</li></ul>
-<h2 id="certificate">Certifications</h2>
+<li>Linux(Basics)</li></ul>
+<!-- <h2 id="certificate">Certifications</h2>
 <ul>
 <li><strong>AWS Cloud Practitioner</strong></li><br>
 <p>Certificate no:</p>
 <p>Expiration: 3years</p>
 <li><strong>CCNA (Cisco Certified Network Associate) - Routing and Switching</strong></li><br>
 <p>Certificate no:</p>
-<p>Expiration: 3years</p></ul>
+<p>Expiration: 3years</p></ul>-->
 <h2 id="projects">Projects</h2>
 <p><strong>Line Following Robot</strong><br>
 <em>September 2017</em></p>
@@ -92,8 +89,9 @@
 <p><strong>Father's Name : </strong>V. Tamilarasan<br>
 <strong>Date of Birth : </strong>05-11-1998<br>
 <strong>Languages Known : </strong>Tamil, English<br>
-<strong>Address : </strong>Plot no:22A, Pudhuvazhvu Nagar, H.M.S Colony extn., Near Fenner Nagar 3 rd Street, Madurai – 625016.<br></p>
+<strong>Address : </strong>
+Plot no:22A, Pudhuvazhvu Nagar, H.M.S Colony extn., Near Fenner Nagar 3rd Street, Madurai – 625016.<br></p>
 <br>
 <br>
 <p><pre>Place: Madurai<br>
-Date : 29-01-2020                                                                   T.Usha Sri</pre></p>
+Date : 21-12-2020                                                                   T.Usha Sri</pre></p>
